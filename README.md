@@ -2,9 +2,8 @@
 
 # Pricing component with toggle solution and light/dark background theme
 
- ## [Live](https://emem221.github.io/pricing-component/) > [Solution](https://your-live-site-url.com)
+ ## [Live](https://emem221.github.io/pricing-component/) > [Solution](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC/hub)
  
-
 
 ### The challenge
 
