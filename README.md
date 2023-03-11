@@ -2,6 +2,8 @@
 
 # Frontend Mentor - Pricing component with toggle solution and light/dark background theme
 
+[Live](https://your-live-site-url.com) > [Solution](https://your-live-site-url.com)
+
 ### The challenge
 
 Users should be able to:
@@ -10,10 +12,7 @@ Users should be able to:
 - Control the toggle with both their mouse/trackpad and their keyboard
 - Change background theme from light to dark
 
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+***
 
 ### Built with
 
