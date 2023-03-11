@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Pricing component with toggle solution and light/dark background theme
 
- ## [Live](https://your-live-site-url.com) > [Solution](https://your-live-site-url.com)
+ ## [Live](https://emem221.github.io/pricing-component/) > [Solution](https://your-live-site-url.com)
  
 
 
