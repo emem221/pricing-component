@@ -4,7 +4,7 @@
 
  ## [Live](https://your-live-site-url.com) > [Solution](https://your-live-site-url.com)
  
- ***
+
 
 ### The challenge
 
@@ -37,7 +37,7 @@ Another quick project to practice some JavaScript and CSS. Learnt how to extra f
 
 [Font Awesome](https://www.fontawesome.com) - The icons are lovely!.
 
-***
+
 
 ## Acknowledgments
 
