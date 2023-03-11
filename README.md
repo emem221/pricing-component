@@ -2,7 +2,9 @@
 
 # Frontend Mentor - Pricing component with toggle solution and light/dark background theme
 
-[Live](https://your-live-site-url.com) > [Solution](https://your-live-site-url.com)
+ ## [Live](https://your-live-site-url.com) > [Solution](https://your-live-site-url.com)
+ 
+ ***
 
 ### The challenge
 
@@ -23,15 +25,19 @@ Users should be able to:
 - Mobile-first workflow
 - JavaScript
 
+***
+
 ### What I learned
 
 Another quick project to practice some JavaScript and CSS. Learnt how to extra functionality to a site (example: change light theme to dark theme)
 
+***
 
 ### Useful resources
 
-- [Font Awesome](https://www.fontawesome.com) - The icons are lovely!.
+[Font Awesome](https://www.fontawesome.com) - The icons are lovely!.
 
+***
 
 ## Acknowledgments
 
