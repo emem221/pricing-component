@@ -1,6 +1,6 @@
 ![Screenshot 2023-03-11 213503](https://user-images.githubusercontent.com/31295561/224510423-58970dd4-52a6-4da7-8380-dd35e2e822fb.png)
 
-# Frontend Mentor - Pricing component with toggle solution and light/dark background theme
+# Pricing component with toggle solution and light/dark background theme
 
  ## [Live](https://emem221.github.io/pricing-component/) > [Solution](https://your-live-site-url.com)
  
